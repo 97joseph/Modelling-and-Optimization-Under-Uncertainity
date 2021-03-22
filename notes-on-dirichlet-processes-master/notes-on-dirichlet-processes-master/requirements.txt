@@ -1,0 +1,6 @@
+pandas
+nikola[extras]>=8.0.0b2
+numpy
+matplotlib
+scipy
+notebook
